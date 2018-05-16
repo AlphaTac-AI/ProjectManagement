@@ -1,0 +1,14 @@
+﻿一场比赛的概要数据如下：
+{
+        "match_id": 3891750360,
+        "radiant_win": true,
+        "radiant": false,
+        "duration": 2095,
+        "start_time": 1526386366,
+        "leagueid": 9862,
+        "league_name": "MDL Changsha",
+        "cluster": 227,
+        "opposing_team_id": 5228654,
+        "opposing_team_name": "VGJ Storm",
+        "opposing_team_logo": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5228654.png"
+}
